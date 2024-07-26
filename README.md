@@ -1,21 +1,27 @@
-
 <!-- Header -->
 <h1 align="center">
-  
-  <br>
   Hi, I'm Brayan Acosta Parrado <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BrayanBMC&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
+  <img alt="Profile 𝚟𝚒𝚎𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BrayanBMC&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
 
 <p align="center">
   <b>I'm a highly motivated backend developer passionate about creating robust and efficient solutions.</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+<!-- Container for Presentation and Video -->
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400" alt="Coding Gif">
+  </div>
+  <div>
+
+  </div>
+</div>
+
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
@@ -112,6 +118,8 @@
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+
+
 
 
 
